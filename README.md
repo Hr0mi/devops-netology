@@ -6,3 +6,5 @@
 - Файлы блокировок - .terraform.tfstate.lock.info
 - Файлы конфигурации CLI - .terraformrc и terraform.rc
 checkout ветку fix
+
+IDE vscode
