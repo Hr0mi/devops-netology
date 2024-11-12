@@ -5,3 +5,4 @@
 - Файлы переопределений - override.tf, override.tf.json, а также файлы, заканчивающиеся на _override.tf и _override.tf.json
 - Файлы блокировок - .terraform.tfstate.lock.info
 - Файлы конфигурации CLI - .terraformrc и terraform.rc
+checkout ветку fix
